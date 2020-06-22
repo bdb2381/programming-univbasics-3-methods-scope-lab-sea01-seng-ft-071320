@@ -14,7 +14,7 @@ def link
   return msg_from_link
 end
 
-def all_phrases(mario1, toadstool1, link1)
+def all_phrases(msg_from_mario, toadstool1, link1)
   mario
   toadstool
   link

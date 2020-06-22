@@ -16,9 +16,9 @@ end
 
 def all_phrases(arg_mario, arg_toadstool1, arg_link1)
 
-  #mario()
-  #toadstool()
-  #link()
+  mario()
+  toadstool()
+  link()
 
 end
 

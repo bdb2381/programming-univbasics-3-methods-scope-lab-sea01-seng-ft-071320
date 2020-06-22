@@ -18,4 +18,4 @@ def all_phrases (msg_from_Mario, msg_from_toadstol, msg_from_link)
   puts msg_from_link
   puts msg_from_Mario
   puts msg_from_toadstol
-end 
+end

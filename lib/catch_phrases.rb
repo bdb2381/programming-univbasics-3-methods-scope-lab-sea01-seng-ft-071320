@@ -14,10 +14,10 @@ def link
   return msg_from_link
 end
 
-def all_phrases(mario, toadstool, link)
-  #mario
-  #toadstool
-  #link
+def all_phrases(mario1, toadstool1, link1)
+  mario
+  toadstool
+  link
 end
 
 all_phrases("msg_from_mario", "msg_from_toadstool", "msg_from_link")

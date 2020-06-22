@@ -20,4 +20,4 @@ def all_phrases (mario, toadstool, link)
   #link
 end
 
-all_phrases ("msg_from_mario", "msg_from_toadst0ol", "msg_from_link")
+all_phrases ("msg_from_mario", "msg_from_toadstool", "msg_from_link")

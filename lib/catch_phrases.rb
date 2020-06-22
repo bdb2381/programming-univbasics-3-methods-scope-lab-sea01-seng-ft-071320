@@ -1,7 +1,7 @@
 def mario
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-   msg_from_Mario = puts "It's-a me, Mario!"
-   return msg_from_Mario
+   msg_from_mario = puts "It's-a me, Mario!"
+   return msg_from_mario
 end
 
 def toadstool
@@ -14,7 +14,7 @@ def link
   return msg_from_link
 end
 
-def all_phrases (Mario, toadstol, link)
+def all_phrases (mario, toadstol, link)
   #Mario
   #toadstool
   #link

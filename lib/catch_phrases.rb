@@ -19,7 +19,7 @@ def all_phrases(arg_mario, arg_toadstool1, arg_link1)
   #mario()
   #toadstool()
   #link()
-  puts link1
+  
 end
 
 all_phrases("msg_from_mario", "msg_from_toadstool", "msg_from_link")

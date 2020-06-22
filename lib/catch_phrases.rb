@@ -17,5 +17,7 @@ end
 def all_phrases (msg_from_Mario, msg_from_toadstol, msg_from_link)
   Mario
   toadstool
-  link 
+  link
 end
+
+all_phrases (msg_from_Mario, msg_from_toadstol, msg_from_link)

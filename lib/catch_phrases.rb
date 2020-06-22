@@ -5,9 +5,14 @@ def mario
 end
 
 def toadstool
-  puts  "Thank You Mario! But Our Princess Is In Another Castle!"
+  msg_from_toadstol = puts  "Thank You Mario! But Our Princess Is In Another Castle!"
+  return msg_from_toadstol 
 end
 
 def link
-  puts "It's Dangerous To Go Alone! Take This."
+  msg_from_link = puts "It's Dangerous To Go Alone! Take This."
+  return msg_from_link
 end
+
+def all_phrases (msg_from_Mario, msg_from_toadstol, msg_from_link)
+end 

@@ -15,7 +15,7 @@ def link
 end
 
 def all_phrases (mario, toadstol, link)
-  #Mario
+  #mario
   #toadstool
   #link
 end

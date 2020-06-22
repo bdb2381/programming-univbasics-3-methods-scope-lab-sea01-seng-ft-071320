@@ -6,7 +6,7 @@ end
 
 def toadstool
   msg_from_toadstol = puts  "Thank You Mario! But Our Princess Is In Another Castle!"
-  return msg_from_toadstol 
+  return msg_from_toadstol
 end
 
 def link

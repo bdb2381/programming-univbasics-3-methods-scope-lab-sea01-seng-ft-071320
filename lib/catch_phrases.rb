@@ -15,9 +15,9 @@ def link
 end
 
 def all_phrases(msg_from_mario, toadstool1, link1)
-  mario
-  toadstool
-  link
+  mario.do
+  toadstool.do
+  link.do 
 end
 
 all_phrases("msg_from_mario", "msg_from_toadstool", "msg_from_link")

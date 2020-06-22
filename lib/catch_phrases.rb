@@ -14,12 +14,14 @@ def link
   return msg_from_link
 end
 
-def all_phrases(arg_mario, arg_toadstool1, arg_link1)
+#def all_phrases(arg_mario, arg_toadstool1, arg_link1)
+def all_phrases()
 
   mario()
   toadstool()
   link()
-return()
+
 end
 
-all_phrases(msg_from_mario, msg_from_toadstool, msg_from_link)
+#all_phrases(msg_from_mario, msg_from_toadstool, msg_from_link)
+all_phrases()
